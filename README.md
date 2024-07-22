@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/2024_paris/20240722_057.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/2024_paris2/20240723_001.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -106,8 +106,10 @@ background-color: rgba(0, 225, 0, 0.6);
 <div id="wrap">
 -->
 
-<h3><span class="white"><br>～～～2024年7月19日、「パリ到着しました」から始まるパリ映像の共有！<br>まずはLINEの会話から～～～<br><br></span></h3>
-
+<h3><span class="white"><br>～～～2024年7月22日、館内の展示品画像、これ撮影できるとは！～～～<br><br></span></h3>
+<a href="20240723_001.JPG" data-lightbox="abc"><img src="20240723_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_002.JPG" data-lightbox="abc"><img src="20240723_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_003.JPG" data-lightbox="abc"><img src="20240723_003.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="white"><br>～～～しばらく動画はさみます～～～<br><br></span></h3>
 
