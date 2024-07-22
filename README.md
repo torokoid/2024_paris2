@@ -145,5 +145,5 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <!-- フッタ -->
  <footer>
- <h3><span class="white">Copyright 2024/Jul/22 S.Hada</span></h3>
+ <h3><span class="white">Copyright 2024/Jul/23 S.Hada</span></h3>
  </footer>
