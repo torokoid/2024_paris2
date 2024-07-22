@@ -94,14 +94,14 @@ background-color: rgba(0, 225, 0, 0.6);
 <div style="background-color:rgb(255,255,255,0.5);">
 <p class="topicpath"><a href="https://torokoid.github.io/2024_paris/">2024年7月19日〜21日</a>>22日〜</a></p></div>
 
-<p align="left"> <span class="yellow">&nbsp;Bruce パリに旅立つ！7月19日〜21日</span></p>
+<p align="left"> <span class="yellow">&nbsp;Bruce 22日〜</span></p>
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
 <br><br>
-<p align="left"> <img src="paris1.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="paris2.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
 
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<h2><span class="yellow"><marquee behavior="left">!!! 2024年7月、Bruceがパリの映像を共有してくれました !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!! 2024年7月、Bruceがパリアトリエ•デ•リュミリエールで日本特集とゴッホ特集 !!!</marquee></span></h2>
 <!--
 <div id="wrap">
 -->
