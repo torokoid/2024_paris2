@@ -91,8 +91,8 @@ background-color: rgba(0, 225, 0, 0.6);
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
 </p>
 
-<div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/2024_paris/">2024年7月19日〜21日</a>>22日〜</a></p></div>
+<!--<div style="background-color:rgb(255,255,255,0.5);">-->
+<p class="topicpath"><a href="https://torokoid.github.io/2024_paris/">2024年7月19日〜21日</a>>22日〜</p><!--</div>-->
 
 <p align="left"> <span class="yellow">&nbsp;Bruce 22日〜</span></p>
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
@@ -111,15 +111,15 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240723_002.JPG" data-lightbox="abc"><img src="20240723_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_003.JPG" data-lightbox="abc"><img src="20240723_003.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white"><br>～～～しばらく動画はさみます～～～<br><br></span></h3>
+<h3><span class="white"><br>～～～ここからは動画です～～～<br><br></span></h3>
 
 
 
 
 
-
+<!--
 <h2><span class="yellow"><marquee behavior="left">!!! ここからMonetの家 !!!</marquee></span></h2>
-
+-->
 
 <br><br><br><br><br><br>
 
