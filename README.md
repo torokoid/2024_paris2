@@ -113,13 +113,27 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="white"><br>～～～ここからは動画です～～～<br><br></span></h3>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CdkvQjeTqJY?si=vYUfsXow1AGgzqeR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aB66zgQum5s?si=yy2S8RMbbuOrARiq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YPDjlo6CElo?si=qzMd780kWt-zhfha" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Km7MRWt2TpI?si=1WB-oEkFk3BENnSx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VKRhtFbuJCg?si=uvgpyvxbg8xJXxyq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v65BD2Kvj74?si=JYDYvFyE4iM7PtOF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KhLbg3-AJ2M?si=EDyL1UEs1DyLfXnP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VQSDm6V_yNA?si=G4A-wJwqfN0vQLvm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<h2><span class="yellow"><marquee behavior="left">!!! ここから日本特集、最後に戦場のメリークリスマス !!!</marquee></span></h2>
 
 
 
-
-<!--
-<h2><span class="yellow"><marquee behavior="left">!!! ここからMonetの家 !!!</marquee></span></h2>
--->
 
 <br><br><br><br><br><br>
 
