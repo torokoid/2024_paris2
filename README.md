@@ -201,6 +201,8 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ioIhvl8itS4?si=3vg4grHzv3AppJ4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<h3><span class="white"><br>～～～ホテルはセーヌ川の近く～～～<br><br></span></h3>
+
 <a href="20240723_048.JPG" data-lightbox="abc"><img src="20240723_048.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_049.JPG" data-lightbox="abc"><img src="20240723_049.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_050.JPG" data-lightbox="abc"><img src="20240723_050.JPG" alt="サンプル画像" width="900" /></a>
@@ -215,6 +217,9 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240723_059.JPG" data-lightbox="abc"><img src="20240723_059.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_060.JPG" data-lightbox="abc"><img src="20240723_060.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_061.JPG" data-lightbox="abc"><img src="20240723_061.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="white"><br>～～～前の日にはなかったフランス国旗が凱旋門につるされてました～～～<br><br></span></h3>
+
 <a href="20240723_062.JPG" data-lightbox="abc"><img src="20240723_062.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_063.JPG" data-lightbox="abc"><img src="20240723_063.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_064.JPG" data-lightbox="abc"><img src="20240723_064.JPG" alt="サンプル画像" width="900" /></a>
@@ -234,7 +239,15 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240723_078.JPG" data-lightbox="abc"><img src="20240723_078.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_079.JPG" data-lightbox="abc"><img src="20240723_079.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="white"><br>～～～家族全員で夕食～～～<br><br></span></h3>
 
+
+
+
+
+
+
+<h3><span class="white"><br>～～～前の日にはなかったフランス国旗が凱旋門につるされてました～～～<br><br></span></h3>
 
 
 <br><br><br><br><br><br>
