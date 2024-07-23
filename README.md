@@ -197,6 +197,14 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240723_046.JPG" data-lightbox="abc"><img src="20240723_046.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_047.JPG" data-lightbox="abc"><img src="20240723_047.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow"><marquee behavior="left">!!!21日の夜、次女がパリに到着,家族全員揃った,どこに行きたい？凱旋門とエッフェル塔,我々は2回目,その後、シテ島まわりを夜散歩!!!</marquee></span></h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ioIhvl8itS4?si=3vg4grHzv3AppJ4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+
 
 <br><br><br><br><br><br>
 
