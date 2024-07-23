@@ -111,7 +111,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240723_002.JPG" data-lightbox="abc"><img src="20240723_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_003.JPG" data-lightbox="abc"><img src="20240723_003.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white"><br>～～～ここからは動画です～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～ここからは動画です～～～<br><br></span></h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CdkvQjeTqJY?si=vYUfsXow1AGgzqeR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -156,7 +156,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240723_017.JPG" data-lightbox="abc"><img src="20240723_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_018.JPG" data-lightbox="abc"><img src="20240723_018.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white"><br>～～～寺院の裏手には似顔絵画家～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～寺院の裏手には似顔絵画家～～～<br><br></span></h3>
 
 <a href="20240723_019.JPG" data-lightbox="abc"><img src="20240723_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_020.JPG" data-lightbox="abc"><img src="20240723_020.JPG" alt="サンプル画像" width="900" /></a>
@@ -190,7 +190,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240723_042.JPG" data-lightbox="abc"><img src="20240723_042.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_043.JPG" data-lightbox="abc"><img src="20240723_043.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white"><br>～～～お向かいのユニクロ～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～お向かいのユニクロ～～～<br><br></span></h3>
 
 <a href="20240723_044.JPG" data-lightbox="abc"><img src="20240723_044.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_045.JPG" data-lightbox="abc"><img src="20240723_045.JPG" alt="サンプル画像" width="900" /></a>
@@ -201,7 +201,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ioIhvl8itS4?si=3vg4grHzv3AppJ4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h3><span class="white"><br>～～～ホテルはセーヌ川の近く～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～ホテルはセーヌ川の近く～～～<br><br></span></h3>
 
 <a href="20240723_048.JPG" data-lightbox="abc"><img src="20240723_048.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_049.JPG" data-lightbox="abc"><img src="20240723_049.JPG" alt="サンプル画像" width="900" /></a>
@@ -218,7 +218,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240723_060.JPG" data-lightbox="abc"><img src="20240723_060.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_061.JPG" data-lightbox="abc"><img src="20240723_061.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white"><br>～～～前の日にはなかったフランス国旗が凱旋門につるされてました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～前の日にはなかったフランス国旗が凱旋門につるされてました～～～<br><br></span></h3>
 
 <a href="20240723_062.JPG" data-lightbox="abc"><img src="20240723_062.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_063.JPG" data-lightbox="abc"><img src="20240723_063.JPG" alt="サンプル画像" width="900" /></a>
@@ -239,7 +239,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240723_078.JPG" data-lightbox="abc"><img src="20240723_078.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_079.JPG" data-lightbox="abc"><img src="20240723_079.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white"><br>～～～家族全員で夕食～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～家族全員で夕食～～～<br><br></span></h3>
 
 <a href="20240723_080.JPG" data-lightbox="abc"><img src="20240723_080.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_081.JPG" data-lightbox="abc"><img src="20240723_081.JPG" alt="サンプル画像" width="900" /></a>
@@ -272,7 +272,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240723_108.JPG" data-lightbox="abc"><img src="20240723_108.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_109.JPG" data-lightbox="abc"><img src="20240723_109.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white"><br>～～～22日美術館に行く途中、ポンピードセンターの前を通った,セーヌ川でオープニングセレモニーの練習？～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～22日美術館に行く途中、ポンピードセンターの前を通った,セーヌ川でオープニングセレモニーの練習？～～～<br><br></span></h3>
 
 <a href="20240723_110.JPG" data-lightbox="abc"><img src="20240723_110.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_111.JPG" data-lightbox="abc"><img src="20240723_111.JPG" alt="サンプル画像" width="900" /></a>
@@ -290,14 +290,14 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h2><span class="yellow"><marquee behavior="left">!!!23日,パリに家族全員集合です!!!</marquee></span></h2>
 
-<h3><span class="white"><br>～～～次女と２ショット！～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～次女と２ショット！～～～<br><br></span></h3>
 <a href="20240723_128.JPG" data-lightbox="abc"><img src="20240723_128.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_129.JPG" data-lightbox="abc"><img src="20240723_129.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_130.JPG" data-lightbox="abc"><img src="20240723_130.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white"><br>～～～長女、次女、私、カミさん～～～<br><br></span></h3>
 <a href="20240723_131.JPG" data-lightbox="abc"><img src="20240723_131.JPG" alt="サンプル画像" width="900" /></a>
 <br><br>
-<h3><span class="white"><br>長女とカミさんは7/18到着、7/22帰国<br>
+<h3><span class="yellow"><br>長女とカミさんは7/18到着、7/22帰国<br>
 次女は7/21到着<br>
 サッカーを二試合スタジアム観戦、<br>
 7/26オープニングセレモニー<br>
