@@ -106,7 +106,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <div id="wrap">
 -->
 
-<h3><span class="white"><br>～～～2024年7月22日、館内の展示品画像、これ撮影できるとは！～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～2024年7月22日、館内の展示品画像、これ撮影できるとは！～～～<br><br></span></h3>
 <a href="20240723_001.JPG" data-lightbox="abc"><img src="20240723_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_002.JPG" data-lightbox="abc"><img src="20240723_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_003.JPG" data-lightbox="abc"><img src="20240723_003.JPG" alt="サンプル画像" width="900" /></a>
@@ -294,7 +294,8 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240723_128.JPG" data-lightbox="abc"><img src="20240723_128.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_129.JPG" data-lightbox="abc"><img src="20240723_129.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_130.JPG" data-lightbox="abc"><img src="20240723_130.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white"><br>～～～長女、次女、私、カミさん～～～<br><br></span></h3>
+
+<h3><span class="yellow"><br>～～～長女、次女、私、カミさん～～～<br><br></span></h3>
 <a href="20240723_131.JPG" data-lightbox="abc"><img src="20240723_131.JPG" alt="サンプル画像" width="900" /></a>
 <br><br>
 <h3><span class="yellow"><br>長女とカミさんは7/18到着、7/22帰国<br>
