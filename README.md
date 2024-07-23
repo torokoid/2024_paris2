@@ -138,6 +138,61 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-SYumSuvid8?si=Vjr9iTiUqOgh_kAb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<h2><span class="yellow"><marquee behavior="left">!!! 22日午後は、サクレクレール寺院 !!!</marquee></span></h2>
+
+<a href="20240723_004.JPG" data-lightbox="abc"><img src="20240723_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_005.JPG" data-lightbox="abc"><img src="20240723_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_006.JPG" data-lightbox="abc"><img src="20240723_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_007.JPG" data-lightbox="abc"><img src="20240723_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_008.JPG" data-lightbox="abc"><img src="20240723_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_009.JPG" data-lightbox="abc"><img src="20240723_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_010.JPG" data-lightbox="abc"><img src="20240723_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_011.JPG" data-lightbox="abc"><img src="20240723_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_012.JPG" data-lightbox="abc"><img src="20240723_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_013.JPG" data-lightbox="abc"><img src="20240723_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_014.JPG" data-lightbox="abc"><img src="20240723_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_015.JPG" data-lightbox="abc"><img src="20240723_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_016.JPG" data-lightbox="abc"><img src="20240723_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_017.JPG" data-lightbox="abc"><img src="20240723_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_018.JPG" data-lightbox="abc"><img src="20240723_018.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="white"><br>～～～寺院の裏手には似顔絵画家～～～<br><br></span></h3>
+
+<a href="20240723_019.JPG" data-lightbox="abc"><img src="20240723_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_020.JPG" data-lightbox="abc"><img src="20240723_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_021.JPG" data-lightbox="abc"><img src="20240723_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_022.JPG" data-lightbox="abc"><img src="20240723_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_023.JPG" data-lightbox="abc"><img src="20240723_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_024.JPG" data-lightbox="abc"><img src="20240723_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_025.JPG" data-lightbox="abc"><img src="20240723_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_026.JPG" data-lightbox="abc"><img src="20240723_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_027.JPG" data-lightbox="abc"><img src="20240723_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_028.JPG" data-lightbox="abc"><img src="20240723_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_029.JPG" data-lightbox="abc"><img src="20240723_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_030.JPG" data-lightbox="abc"><img src="20240723_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_031.JPG" data-lightbox="abc"><img src="20240723_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_032.JPG" data-lightbox="abc"><img src="20240723_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_033.JPG" data-lightbox="abc"><img src="20240723_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_034.JPG" data-lightbox="abc"><img src="20240723_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_035.JPG" data-lightbox="abc"><img src="20240723_035.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_036.JPG" data-lightbox="abc"><img src="20240723_036.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_037.JPG" data-lightbox="abc"><img src="20240723_037.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_038.JPG" data-lightbox="abc"><img src="20240723_038.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow"><marquee behavior="left">!!!その後、ラファイエットデパートのステンドグラス!!!</marquee></span></h2>
+
+<a href="20240723_039.JPG" data-lightbox="abc"><img src="20240723_039.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_040.JPG" data-lightbox="abc"><img src="20240723_040.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_041.JPG" data-lightbox="abc"><img src="20240723_041.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_042.JPG" data-lightbox="abc"><img src="20240723_042.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_043.JPG" data-lightbox="abc"><img src="20240723_043.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="white"><br>～～～お向かいのユニクロ～～～<br><br></span></h3>
+
+<a href="20240723_044.JPG" data-lightbox="abc"><img src="20240723_044.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_045.JPG" data-lightbox="abc"><img src="20240723_045.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_046.JPG" data-lightbox="abc"><img src="20240723_046.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_047.JPG" data-lightbox="abc"><img src="20240723_047.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br><br><br><br>
